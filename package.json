@@ -1,16 +1,32 @@
 {
   "name": "google-map-extractor",
-  "version": "1.0.0",
+  "description": "A simple and lightweight library for extracting geographic coordinates (latitude and longitude).",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "Ibnul Mutaki",
+  "author": {
+    "name": "Ibnul Mutaki",
+    "email": "ibnuul@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cacing69/google-map-extractor"
+  },
+  "keywords": [
+    "coordinates",
+    "googlemaps",
+    "google-maps",
+    "latitude",
+    "longitude"
+  ],
+  "bugs": {
+    "url": "https://github.com/cacing69/google-map-extractor/issues"
+  },
   "license": "MIT",
-  "description": "",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.15.12",
