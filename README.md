@@ -14,7 +14,7 @@ This is a simple and lightweight library written in TypeScript that extracts geo
 You can install this library via npm:
 
 ```bash
-npm install your-library-name
+npm install google-map-extractor
 ```
 
 ```typescript
